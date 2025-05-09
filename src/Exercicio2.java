@@ -43,7 +43,6 @@ public class Exercicio2 {
     }
 
 
-
     static int[] GeradodeMatriz(int N) {
         Random g = new Random();
         int[] matriz = new int[N];
